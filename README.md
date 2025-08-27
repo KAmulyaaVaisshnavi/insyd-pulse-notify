@@ -2,8 +2,6 @@
 
 A proof-of-concept notification system for Insyd, a social web platform for the Architecture Industry. This system demonstrates real-time notification processing and delivery, designed to scale from 100 to 1M+ daily active users.
 
-![Insyd Notification System](https://via.placeholder.com/800x400/2563eb/ffffff?text=Insyd+Notification+System+POC)
-
 ## 🏗️ System Overview
 
 This POC demonstrates a complete notification system with:
@@ -298,10 +296,6 @@ For detailed system architecture, scaling strategies, and technical decisions, s
 - **Documentation**: Check `/docs` folder
 - **API Docs**: Visit `/api/health` endpoint
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🎯 Assignment Completion
 
 This POC fulfills all requirements for the Insyd notification system assignment:
@@ -325,7 +319,3 @@ This POC fulfills all requirements for the Insyd notification system assignment:
 - [x] Comprehensive documentation
 - [x] Production-ready deployment
 - [x] Scalable architecture patterns
-
----
-
-**Built with ❤️ for the Architecture Industry by the Insyd Team**
